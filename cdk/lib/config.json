@@ -1,0 +1,7 @@
+{
+    "oktaClientId": "FILL IN FROM YOUR OKTA ACCOUNT",
+    "oktaClientSecret": "FILL IN FROM YOUR OKTA ACCOUNT",
+    "oktaIssuerUrl": "FILL IN FROM YOUR OKTA ACCOUNT, with pattern https://dev-{NUMBER}.okta.com",
+    "appClientCallbackUrl": "http://localhost:3000/authcode",
+    "userPoolCognitoDomain": "FILL IN, E.G. {YOUR NAME}-aws-cognito-okta-federation-exercise, NOTE: THIS MUST BE UNIQUE IN COGNITO"
+}
